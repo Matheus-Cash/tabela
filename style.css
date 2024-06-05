@@ -7,4 +7,10 @@ color: rgb(255, 0, 0);
 td{
 color: white;
 }
+table{
+width: 50%;
+line-height: 1.5;
+border: color(blue red green blue);
+border: 4px;
 
+}
