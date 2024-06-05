@@ -16,4 +16,5 @@ text-align: center;
 }
 table{
 border: 3px color(red red green blue);
+background-color: aliceblue;
 }
