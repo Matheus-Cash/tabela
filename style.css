@@ -16,5 +16,7 @@ text-align: center;
 }
 table{
 border: 3px color(red red green blue);
-
+}
+thead{
+background-color: red;
 }
