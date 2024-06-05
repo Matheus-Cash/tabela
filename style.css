@@ -15,7 +15,9 @@ border: 4px;
 text-align: center;
 }
 table{
-border: 3px color(red red green blue);
+border: 3px color(red red green blue);[
+    border: solid 3px color: red;;
+]
 }
 thead{
 background-color: red;
