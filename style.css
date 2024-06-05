@@ -14,3 +14,6 @@ border: color(blue red green blue);
 border: 4px;
 text-align: center;
 }
+table{
+border: 3px color(red red green blue);
+}
